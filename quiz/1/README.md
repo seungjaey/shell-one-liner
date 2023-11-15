@@ -17,7 +17,7 @@ secret file.md
 ~ 생략
 ```
 
-## 출력
+# 출력 예시
 ```
 test.exe
 화면사양서.xls.exe
